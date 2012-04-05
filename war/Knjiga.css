@@ -1,0 +1,315 @@
+.gwt-TextArea-readonly  
+{
+color:darkBlue;
+}
+
+.infoOKnjizi
+{
+	color:darkBlue;
+}
+
+.PageComponent
+{
+    background:rgb(230,230,230);
+    text-align:left;
+    border: solid 1px rgb(90,90,90);
+    box-shadow: 0 0 7px black;
+}
+
+.MyImageComponent
+{
+	border: 0px;
+	background:transparent;	
+}
+
+.Message
+{
+	text-align:center;
+	border: 0px;
+	background:rgb(230,230,230);
+}
+
+
+.Viewport
+{
+	background:rgb(103,103,103);
+	/*border: solid 1px rgb(90,90,90);*/
+	cursor:pointer;
+}
+
+.pointerCursor
+{
+	cursor:pointer;
+}
+
+.moveCursor
+{
+	cursor:move;
+}
+
+
+.MainLayout
+{
+	background: rgb(226,226,226);
+}
+
+.WhiteBackground
+{
+	background: white;
+}
+
+.RedBorder
+{
+	border: solid 1px rgb(255,0,0);
+}
+
+.Silver
+{
+	background:silver;
+}
+
+
+.hSpliterBar
+{
+	border: solid 0px;	
+	background:rgb(103, 103, 103);
+	background-image: url('kuka.gif');
+	background-repeat: repeat-y;
+}
+
+.hDragSpliterBar
+{
+	border: solid 1px silver;
+	background:gray;
+}
+
+
+.EastCursor
+{
+	cursor: e-resize;
+}
+
+
+.MyToolbar
+{
+	background: rgb(227,227,227);
+}
+
+.MyToolbarHover
+{
+	cursor: default;
+	background:rgb(157,185,203);
+	/*border: solid 1px rgb(126,148,162);*/
+}
+.MyToolbarDown
+{
+	cursor: default;
+	background:rgb(177,205,223);
+	border: solid 1px rgb(136,158,172);	
+}
+
+.MyToolbarButton
+{
+	cursor: default;
+	background: rgb(226,226,226);
+}
+
+/*Komponente u okrviru toolbara koje prikazuju brojeve i nazive stranica*/
+.PageNameTextBox
+{
+	background:  rgb(237,237,237);
+	border: solid 1px rgb(157,185,203);
+	text-align: right;
+	/*font-size: 12px;*/
+}
+.QualityList
+{
+	background:  rgb(237,237,237);
+	border: solid 1px rgb(157,185,203);
+	text-align: left;
+}
+
+.PageNameTextLabel
+{
+	background: transparent;
+	border: solid 0px;
+	text-align: left;
+	/*font-size: 12px;*/
+}
+/**/
+
+.LeftPanel
+{
+	/*background: rgb(86,86,86);*/
+	  background: rgb(79,79,79);
+}
+
+.MyVerticalTabBar
+{
+	background: rgb(103, 103, 103);
+	cursor: default;
+}
+
+.MyVerticalTabButton
+{
+	background: rgb(103, 103, 103);
+	cursor: default;
+}
+
+.MyVerticalTabButtonHover
+{
+	cursor: default;
+	background: rgb(79,79,79);
+}
+
+.MyVerticalTabButtonDown
+{
+	cursor: default;
+	background: rgb(79,79,79);
+	border: solid 1px rgb(128,128,128);		
+}
+.MyVerticalTabViewContainer
+{
+	background: rgb(79,79,79);
+	border: solid 1px  rgb(128,128,128);
+}
+.MyVerticalTabLabel
+{
+	color: white;
+	font-size: x-small; 
+}
+
+.Tooltip
+{
+	background: rgb(255, 255, 225);
+	border: solid 1px rgb(157,185,203);
+	text-align: left;
+	font-size: small;
+}
+
+
+
+.gwt-Tree 
+{
+	background: rgb(255, 255, 255); 
+}
+
+.gwt-Tree .gwt-TreeItem 
+{ 
+	background: rgb(255, 255, 255); 
+	cursor: pointer;
+}
+
+.gwt-Tree .gwt-TreeItem-selected 
+{
+	background: rgb(157,185,203);
+}
+
+.ImageList
+{
+	cursor:pointer;
+	border: solid 0px;
+	background: gray;
+}
+.ImageList-item
+{
+	cursor:pointer;
+	background: rgb(237,237,237);
+	font-size:14;
+}
+.ImageList-item1
+{
+	cursor:pointer;
+	font-size:14;
+	background: rgb(247,245,249);
+}
+
+.ImageList-selected-item
+{	
+	font-size:14;
+	background: rgb(157,185,203);
+}
+
+.ImageList-title
+{
+	font-size:18;
+}
+.ImageList-description
+{
+	text-align: left;
+	color:rgb(50,50,50);
+	font-size:14;
+}
+
+.ImageList-header
+{
+	background:rgb(227,227,227);
+}
+
+.Pager-item-even
+{
+	cursor:pointer;
+	color:rgb(50,50,50);
+	background: rgb(237,237,237);
+	font-size:14;
+}
+
+.Pager-item-odd
+{
+	cursor:pointer;
+	color:rgb(50,50,50);
+	font-size:14;
+	background: rgb(247,245,249);
+}
+
+.Pager-item-selected
+{
+	font-size:16;
+	background: rgb(157,185,203);		
+}
+.Pager-button
+{
+	background: rgb(227,227,227);;
+}
+
+.Pager-button-hover
+{
+	background:rgb(157,185,203);;
+}
+.Pager-button-down
+{
+	background:rgb(177,205,223);
+	border: solid 1px rgb(136,158,172);	
+}
+
+.Pager-hider
+{
+	background: rgb(227,227,227);
+}
+.Brisi
+{
+	background:red;
+}
+
+.Brisi1
+{
+	background:teal;
+}
+
+.StackLabel
+{
+	font-size:16;
+	color:rgb(220,220,220);
+}
+.StackHeader
+{
+	background-image: url('stack-header.gif');
+	background-repeat: repeat-x;
+}
+.StackHeaderOver
+{
+		background-image: url('stack-header-over.gif');
+		background-repeat: repeat-x;
+	
+}
+
